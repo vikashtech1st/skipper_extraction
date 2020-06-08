@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring Cloud Skipper :: Server
+Implementation-Version: 2.4.1.RELEASE
+Built-By: bamboo
+Implementation-Vendor-Id: org.springframework.cloud
+Spring-Boot-Version: 2.2.7.RELEASE
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: org.springframework.boot.loader.JarLauncher
+Start-Class: org.springframework.cloud.skipper.server.app.SkipperServe
+ rApplication
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+Created-By: Apache Maven 3.5.4
+Build-Jdk: 1.8.0_232
+Implementation-URL: https://spring.io/projects/spring-cloud-dataflow/s
+ pring-cloud-skipper-parent/spring-cloud-skipper-server
+
